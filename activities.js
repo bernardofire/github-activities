@@ -21,7 +21,7 @@
         activities:
             function(options) {
                 var defaults = {
-                    'username':'bernardofire',
+                    'username': '',
                 }
 
                 var settings = $.extend(defaults, options);
