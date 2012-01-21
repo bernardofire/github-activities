@@ -12,7 +12,7 @@ Install
 
 Add the jQuery into your page, and then add the activities.js.
 You can use the jQuery from google API.
-Assuming that you have included the activities scripts in the same directory which is you page:
+Assuming that you have included the activities scripts in the same directory which is your page:
 
 
 ::
