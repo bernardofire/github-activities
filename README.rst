@@ -48,3 +48,9 @@ Usage
    - pushed to master at nsi-iff/nsi_site
    - pushed to master at bernardofire/github-activities
    - pushed to master at bernardofire/DashFilter
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/bernardofire/github-activities/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
